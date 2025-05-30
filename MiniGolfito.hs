@@ -1,4 +1,3 @@
-import qualified Control.Applicative as 5
 
 -- Minigolfito
 
